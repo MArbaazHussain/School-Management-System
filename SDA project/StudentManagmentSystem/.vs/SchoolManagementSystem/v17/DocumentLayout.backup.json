@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SDA project\\SchoolManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\schoolmanagementsystem\\schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\schoolmanagementsystem\\schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\schoolmanagementsystem\\schoolapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\schoolmanagementsystem\\schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\schoolmanagementsystem\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolAPI\\appsettings.json",
+              "ToolTip": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\appsettings.json",
+              "RelativeToolTip": "SchoolAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T13:38:00.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Program.cs",
+              "ToolTip": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Program.cs",
+              "RelativeToolTip": "SchoolAPI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:52:26.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:52:07.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\Student.cs",
+              "ToolTip": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:44:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\SDA project\\SchoolManagementSystem\\SchoolAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:10:34.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

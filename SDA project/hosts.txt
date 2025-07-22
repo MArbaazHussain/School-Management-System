@@ -1,0 +1,3 @@
+(students )school management system : local host 7207
+student course relation wali : local host 7176
+(courses) Course Service : localhost 7289

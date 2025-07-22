@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SDA project\\UI\\StudentManagementUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|f:\\sda project\\ui\\studentmanagementui\\studentmanagementui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\viewstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\updatestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\assigncourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\assigncourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\assigncourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\assigncourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|f:\\sda project\\ui\\studentmanagementui\\studentmanagementui\\views\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\views\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\views\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|F:\\SDA project\\UI\\StudentManagementUI\\studentmanagementui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44F9E0BC-58A6-4CC2-8AA0-517409D5A8F5}|StudentManagementUI\\StudentManagementUI.csproj|solutionrelative:studentmanagementui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewStudentsForm.cs [Design]",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\ViewStudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\ViewStudentsForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\ViewStudentsForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementUI\\Views\\ViewStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:34:59.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewStudentsForm.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\ViewStudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\ViewStudentsForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\ViewStudentsForm.cs",
+              "RelativeToolTip": "StudentManagementUI\\Views\\ViewStudentsForm.cs",
+              "ViewState": "AgIAABwAAAAAzMzMzMwUwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:32:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCourseForm.cs [Design]",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddCourseForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\AddCourseForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddCourseForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementUI\\Views\\AddCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:34:57.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\MainForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:45:40.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\MainForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\MainForm.cs",
+              "RelativeToolTip": "StudentManagementUI\\MainForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:34:45.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStudentForm.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\UpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\UpdateStudentForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\UpdateStudentForm.cs",
+              "RelativeToolTip": "StudentManagementUI\\Views\\UpdateStudentForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:31:34.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStudentForm.cs [Design]",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\UpdateStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\UpdateStudentForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\UpdateStudentForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementUI\\Views\\UpdateStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:31:33.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssignCourseForm.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AssignCourseForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\AssignCourseForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AssignCourseForm.cs",
+              "RelativeToolTip": "StudentManagementUI\\Views\\AssignCourseForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwFcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:31:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssignCourseForm.cs [Design]",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AssignCourseForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\AssignCourseForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AssignCourseForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementUI\\Views\\AssignCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:31:06.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCourseForm.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddCourseForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\AddCourseForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddCourseForm.cs",
+              "RelativeToolTip": "StudentManagementUI\\Views\\AddCourseForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:45:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\AddStudentForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementUI\\Views\\AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:29:43.253Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Views\\AddStudentForm.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Views\\AddStudentForm.cs",
+              "RelativeToolTip": "StudentManagementUI\\Views\\AddStudentForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:29:44.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementUI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:27:53.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Controllers\\CourseController.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "StudentManagementUI\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAMAAAAANDMzMzMbwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:27:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Models\\Course.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Models\\Course.cs",
+              "RelativeToolTip": "StudentManagementUI\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:24:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Models\\Student.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagementUI\\Models\\Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:32:41.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementUI\\Program.cs",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\Program.cs",
+              "RelativeToolTip": "StudentManagementUI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:33:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\App.config",
+              "RelativeDocumentMoniker": "StudentManagementUI\\App.config",
+              "ToolTip": "F:\\SDA project\\UI\\StudentManagementUI\\StudentManagementUI\\App.config",
+              "RelativeToolTip": "StudentManagementUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-29T00:32:22.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

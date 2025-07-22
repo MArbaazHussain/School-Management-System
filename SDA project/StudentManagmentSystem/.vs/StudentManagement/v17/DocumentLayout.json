@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SDA project\\StudentManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\migrations\\20250527001536_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\migrations\\20250527001536_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|f:\\sda project\\studentmanagmentsystem\\schoolapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2DFE4F-14CC-4D00-98B8-EA0494EAFE50}|SchoolAPI\\SchoolAPI.csproj|solutionrelative:schoolapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolAPI\\appsettings.json",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\appsettings.json",
+              "RelativeToolTip": "SchoolAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T01:53:53.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:21:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250527001536_InitialCreate.cs",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Migrations\\20250527001536_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Migrations\\20250527001536_InitialCreate.cs",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Migrations\\20250527001536_InitialCreate.cs",
+              "RelativeToolTip": "SchoolAPI\\Migrations\\20250527001536_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:20:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABgAAACALjMzMzMLwDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:19:18.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Models\\Student.cs",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:47:46.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SchoolAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:20:03.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolAPI\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T01:53:49.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAPI\\Program.cs",
+              "ToolTip": "F:\\SDA project\\StudentManagmentSystem\\SchoolAPI\\Program.cs",
+              "RelativeToolTip": "SchoolAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:47:27.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

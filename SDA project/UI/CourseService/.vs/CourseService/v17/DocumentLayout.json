@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SDA project\\UI\\CourseService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|f:\\sda project\\ui\\courseservice\\courseservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|f:\\sda project\\ui\\courseservice\\courseservice\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|f:\\sda project\\ui\\courseservice\\courseservice\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|f:\\sda project\\ui\\courseservice\\courseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|f:\\sda project\\ui\\courseservice\\courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE80A395-5D68-43F8-9C15-726A17522A98}|CourseService\\CourseService.csproj|solutionrelative:courseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\CourseService\\CourseService\\Program.cs",
+              "RelativeDocumentMoniker": "CourseService\\Program.cs",
+              "ToolTip": "F:\\SDA project\\UI\\CourseService\\CourseService\\Program.cs",
+              "RelativeToolTip": "CourseService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:09:22.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\SDA project\\UI\\CourseService\\CourseService\\appsettings.json",
+              "RelativeDocumentMoniker": "CourseService\\appsettings.json",
+              "ToolTip": "F:\\SDA project\\UI\\CourseService\\CourseService\\appsettings.json",
+              "RelativeToolTip": "CourseService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T00:08:43.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\CourseService\\CourseService\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "CourseService\\Models\\DataContext.cs",
+              "ToolTip": "F:\\SDA project\\UI\\CourseService\\CourseService\\Models\\DataContext.cs",
+              "RelativeToolTip": "CourseService\\Models\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:04:34.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\CourseService\\CourseService\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CourseService\\Controllers\\CourseController.cs",
+              "ToolTip": "F:\\SDA project\\UI\\CourseService\\CourseService\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CourseService\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T00:04:04.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\SDA project\\UI\\CourseService\\CourseService\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CourseService\\Models\\Course.cs",
+              "ToolTip": "F:\\SDA project\\UI\\CourseService\\CourseService\\Models\\Course.cs",
+              "RelativeToolTip": "CourseService\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T23:58:34.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
